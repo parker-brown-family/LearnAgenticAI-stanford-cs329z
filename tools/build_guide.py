@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 """Write CUTS.md, the study guide: every cut, linked to the moment in the original lecture.
 
-    python3 -I tools/build_guide.py
+With --local, also write media/clips/INDEX.md: the same guide, linking each cut to its clip on
+this machine (file:// URLs), for watching and recording over. It is never committed.
+
+    python3 -I tools/build_guide.py [--local]
 """
-import json
+import json, re, sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent.parent
@@ -11,7 +14,10 @@ HERE = Path(__file__).resolve().parent.parent
 def secs(t):
     m, s = t.split(":"); return int(m) * 60 + int(float(s))
 
-def main():
+def slug(title):
+    return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:60].rstrip("-")
+
+def main(local=False):
     cuts = json.loads((HERE / "cuts.json").read_text())
     lectures = sorted(json.loads((HERE / "lectures.json").read_text()),
                       key=lambda l: (l["course_order"] == "guest", l["course_order"] if l["course_order"] != "guest" else 0))
@@ -39,13 +45,17 @@ def main():
             lines += [f"### {c['id']} · {c['title']}{star}", "",
                       f"{c['start']} to {c['end']}, {mins:.1f} min · {', '.join(c['tags'])}", "",
                       f"https://www.youtube.com/watch?v={lec['id']}&t={secs(c['start'])}s", "",
+                      *([f"file://{HERE / 'media' / 'clips' / (c['id'] + '-' + slug(c['title']) + '.mp4')}", ""] if local else []),
                       f"- **For the job:** {c['job']}",
                       f"- **What it teaches:** {c['learn']}"]
             if c.get("human"):
                 lines.append(f"- **The human part:** {c['human']}")
             lines.append("")
-    (HERE / "CUTS.md").write_text("\n".join(lines))
-    print(f"wrote CUTS.md: {len(cuts)} cuts, {total // 60} min")
+    out = HERE / ("media/clips/INDEX.md" if local else "CUTS.md")
+    out.write_text("\n".join(lines))
+    print(f"wrote {out.relative_to(HERE)}: {len(cuts)} cuts, {total // 60} min")
 
 if __name__ == "__main__":
     main()
+    if "--local" in sys.argv:
+        main(local=True)

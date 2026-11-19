@@ -15,12 +15,23 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent.parent
 MEDIA = HERE / "media"
 PAD_IN, PAD_OUT = 0.5, 0.5
+SENTENCE_SLACK = 10.0   # seconds an out point may move later to finish the sentence
 
 def secs(t):
     m, s = t.split(":"); return int(m) * 60 + float(s)
 
 def slug(title):
     return re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")[:60].rstrip("-")
+
+def sentence_end(segs, end):
+    """The out point moved to the end of the sentence being spoken, at most SENTENCE_SLACK later."""
+    before = [s for s in segs if s["start"] < end]
+    if before and before[-1]["text"].rstrip().endswith((".", "?", "!")):
+        return end
+    for s in segs:
+        if end <= s["start"] <= end + SENTENCE_SLACK and s["text"].rstrip().endswith((".", "?", "!")):
+            return s["end"]
+    return end
 
 def encoder():
     out = subprocess.run(["ffmpeg", "-hide_banner", "-encoders"], capture_output=True, text=True).stdout
@@ -38,18 +49,24 @@ def main(only):
         src = next((MEDIA / "video").glob(f"{c['lecture']:02d}-{lec['id']}.mp4"), None)
         if src is None:
             print(f"{c['id']}: lecture video not downloaded yet, skipped"); continue
-        a, b = max(0.0, secs(c["start"]) - PAD_IN), secs(c["end"]) + PAD_OUT
+        tf = next((MEDIA / "transcripts").glob(f"{c['lecture']:02d}-*.json"))
+        segs = json.loads(tf.read_text())["segments"]
+        out_at = sentence_end(segs, secs(c["end"]))
+        a, b = max(0.0, secs(c["start"]) - PAD_IN), out_at + PAD_OUT
         name = f"{c['id']}-{slug(c['title'])}"
         mp4, txt = out_dir / f"{name}.mp4", out_dir / f"{name}.txt"
+        stamp = mp4.with_suffix(".cut")
+        want = f"{a:.2f}-{b:.2f}"
+        if mp4.exists() and stamp.exists() and stamp.read_text() != want:
+            mp4.unlink()          # the cut moved since this clip was made
         if not mp4.exists():
             tmp = mp4.with_suffix(".part.mp4")
             cmd = ["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", f"{a:.2f}", "-i", str(src),
                    "-t", f"{b - a:.2f}", *venc, "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart", str(tmp)]
             subprocess.run(cmd, check=True)
             shutil.move(tmp, mp4)
-        tf = next((MEDIA / "transcripts").glob(f"{c['lecture']:02d}-*.json"))
-        segs = json.loads(tf.read_text())["segments"]
-        said = " ".join(s["text"] for s in segs if secs(c["start"]) <= s["start"] < secs(c["end"]))
+        stamp.write_text(want)
+        said = " ".join(s["text"] for s in segs if secs(c["start"]) <= s["start"] < out_at)
         txt.write_text(
             f"{c['title']}\n{lec['who']}: {lec['title']}\n"
             f"Source: https://www.youtube.com/watch?v={lec['id']}&t={int(secs(c['start']))}s  ({c['start']} to {c['end']})\n\n"
