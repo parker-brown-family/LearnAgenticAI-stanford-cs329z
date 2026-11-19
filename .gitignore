@@ -1,0 +1,4 @@
+# Lecture video, captions, transcripts and the clips cut from them stay on the machine that made them.
+# They belong to Stanford; this repository holds the cut list, the notes and the tools to rebuild them.
+media/
+__pycache__/

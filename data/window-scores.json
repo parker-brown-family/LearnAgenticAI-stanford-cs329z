@@ -1,0 +1,3795 @@
+{
+"model": "jev-latest via OpenRouter, 2026-11-19",
+"questions": "tools/score_windows.py",
+"windows": [
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 5.32,
+"end_s": 117.68,
+"job_value_0_3": 1,
+"understanding_0_3": 0.95,
+"human_judgment_p": 0.07,
+"self_contained_p": 0.86
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 114.68,
+"end_s": 224.97,
+"job_value_0_3": 0.17,
+"understanding_0_3": 0.68,
+"human_judgment_p": 0.06,
+"self_contained_p": 0.39
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 223.37,
+"end_s": 334.97,
+"job_value_0_3": 0.57,
+"understanding_0_3": 1.57,
+"human_judgment_p": 0.08,
+"self_contained_p": 0.43
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 332.41,
+"end_s": 443.41,
+"job_value_0_3": 0.84,
+"understanding_0_3": 2,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 441.98,
+"end_s": 553.26,
+"job_value_0_3": 1.29,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.21,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 549.54,
+"end_s": 660.82,
+"job_value_0_3": 1.26,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.08,
+"self_contained_p": 0.57
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 658.82,
+"end_s": 771.18,
+"job_value_0_3": 1.39,
+"understanding_0_3": 2.39,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 768.62,
+"end_s": 879.46,
+"job_value_0_3": 2.02,
+"understanding_0_3": 2.51,
+"human_judgment_p": 0.74,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 877.98,
+"end_s": 988.1,
+"job_value_0_3": 2.57,
+"understanding_0_3": 2.35,
+"human_judgment_p": 0.88,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 986.3,
+"end_s": 1097.18,
+"job_value_0_3": 1.83,
+"understanding_0_3": 2.07,
+"human_judgment_p": 0.59,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1094.54,
+"end_s": 1205.7,
+"job_value_0_3": 1.84,
+"understanding_0_3": 1.6,
+"human_judgment_p": 0.23,
+"self_contained_p": 0.55
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1204.5,
+"end_s": 1316.46,
+"job_value_0_3": 1.57,
+"understanding_0_3": 1.01,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1314.27,
+"end_s": 1424.83,
+"job_value_0_3": 1.89,
+"understanding_0_3": 1.25,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.43
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1422.83,
+"end_s": 1534.91,
+"job_value_0_3": 1.64,
+"understanding_0_3": 1.45,
+"human_judgment_p": 0.43,
+"self_contained_p": 0.62
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1530.75,
+"end_s": 1643.27,
+"job_value_0_3": 2.11,
+"understanding_0_3": 1.57,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1640.67,
+"end_s": 1752.27,
+"job_value_0_3": 2.12,
+"understanding_0_3": 1.21,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1749.99,
+"end_s": 1860.51,
+"job_value_0_3": 2.71,
+"understanding_0_3": 1.65,
+"human_judgment_p": 0.72,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1858.43,
+"end_s": 1970.07,
+"job_value_0_3": 2.92,
+"understanding_0_3": 2,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.45
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 1967.35,
+"end_s": 2080.23,
+"job_value_0_3": 2.96,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.91,
+"self_contained_p": 0.42
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2077.11,
+"end_s": 2188.43,
+"job_value_0_3": 2.18,
+"understanding_0_3": 1.48,
+"human_judgment_p": 0.56,
+"self_contained_p": 0.41
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2185.87,
+"end_s": 2297.08,
+"job_value_0_3": 2.79,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.85,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2294.84,
+"end_s": 2405.92,
+"job_value_0_3": 2.96,
+"understanding_0_3": 2.17,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2402.92,
+"end_s": 2515.88,
+"job_value_0_3": 2.93,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.77,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2512.68,
+"end_s": 2623.64,
+"job_value_0_3": 2.47,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.67,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2621.48,
+"end_s": 2734.52,
+"job_value_0_3": 2.79,
+"understanding_0_3": 1.73,
+"human_judgment_p": 0.68,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2731.16,
+"end_s": 2841.24,
+"job_value_0_3": 2.39,
+"understanding_0_3": 1.79,
+"human_judgment_p": 0.54,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2838.96,
+"end_s": 2951.08,
+"job_value_0_3": 2.72,
+"understanding_0_3": 1.69,
+"human_judgment_p": 0.56,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 2948.56,
+"end_s": 3059.0,
+"job_value_0_3": 2.67,
+"understanding_0_3": 1.8,
+"human_judgment_p": 0.67,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3056.88,
+"end_s": 3169.61,
+"job_value_0_3": 2.75,
+"understanding_0_3": 2,
+"human_judgment_p": 0.48,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3166.53,
+"end_s": 3276.89,
+"job_value_0_3": 2.66,
+"understanding_0_3": 1.78,
+"human_judgment_p": 0.37,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3274.57,
+"end_s": 3387.33,
+"job_value_0_3": 2.27,
+"understanding_0_3": 1.11,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3383.65,
+"end_s": 3493.73,
+"job_value_0_3": 2.39,
+"understanding_0_3": 1.22,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.45
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3491.65,
+"end_s": 3603.57,
+"job_value_0_3": 2.78,
+"understanding_0_3": 1.93,
+"human_judgment_p": 0.76,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3601.77,
+"end_s": 3712.69,
+"job_value_0_3": 2.42,
+"understanding_0_3": 1.7,
+"human_judgment_p": 0.73,
+"self_contained_p": 0.64
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3710.65,
+"end_s": 3821.33,
+"job_value_0_3": 1.96,
+"understanding_0_3": 1.14,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3819.73,
+"end_s": 3931.66,
+"job_value_0_3": 2.61,
+"understanding_0_3": 1.81,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 3929.18,
+"end_s": 4039.61,
+"job_value_0_3": 1.76,
+"understanding_0_3": 1.53,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 4037.53,
+"end_s": 4148.54,
+"job_value_0_3": 1.53,
+"understanding_0_3": 1.47,
+"human_judgment_p": 0.73,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 4145.82,
+"end_s": 4257.86,
+"job_value_0_3": 2.83,
+"understanding_0_3": 2.08,
+"human_judgment_p": 0.88,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 4255.14,
+"end_s": 4365.78,
+"job_value_0_3": 2.85,
+"understanding_0_3": 2.31,
+"human_judgment_p": 0.88,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "7GW-9ug2nvw",
+"start_s": 4363.02,
+"end_s": 4399.18,
+"job_value_0_3": 2.12,
+"understanding_0_3": 1.75,
+"human_judgment_p": 0.68,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 5.6,
+"end_s": 118.24,
+"job_value_0_3": 0.43,
+"understanding_0_3": 0.64,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.81
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 114.32,
+"end_s": 226.08,
+"job_value_0_3": 1.91,
+"understanding_0_3": 1.79,
+"human_judgment_p": 0.8,
+"self_contained_p": 0.34
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 223.84,
+"end_s": 334.08,
+"job_value_0_3": 1.63,
+"understanding_0_3": 1.17,
+"human_judgment_p": 0.67,
+"self_contained_p": 0.51
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 331.76,
+"end_s": 446.72,
+"job_value_0_3": 2.35,
+"understanding_0_3": 2.37,
+"human_judgment_p": 0.89,
+"self_contained_p": 0.63
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 441.68,
+"end_s": 552.88,
+"job_value_0_3": 2.83,
+"understanding_0_3": 2.11,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 550.96,
+"end_s": 661.36,
+"job_value_0_3": 2.68,
+"understanding_0_3": 1.71,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 659.04,
+"end_s": 770.56,
+"job_value_0_3": 2.21,
+"understanding_0_3": 1.88,
+"human_judgment_p": 0.16,
+"self_contained_p": 0.51
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 767.84,
+"end_s": 880.72,
+"job_value_0_3": 1.99,
+"understanding_0_3": 1.84,
+"human_judgment_p": 0.3,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 876.96,
+"end_s": 988.4,
+"job_value_0_3": 2.46,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.76,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 986.32,
+"end_s": 1098.16,
+"job_value_0_3": 2.47,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.42,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1096.32,
+"end_s": 1207.92,
+"job_value_0_3": 2.39,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.51,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1206.0,
+"end_s": 1316.4,
+"job_value_0_3": 2.64,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.52,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1314.16,
+"end_s": 1425.2,
+"job_value_0_3": 2,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.15,
+"self_contained_p": 0.72
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1422.16,
+"end_s": 1533.44,
+"job_value_0_3": 2.32,
+"understanding_0_3": 1.25,
+"human_judgment_p": 0.29,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1531.76,
+"end_s": 1643.2,
+"job_value_0_3": 2.36,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.51,
+"self_contained_p": 0.13
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1641.2,
+"end_s": 1751.52,
+"job_value_0_3": 2.12,
+"understanding_0_3": 1.76,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1750.0,
+"end_s": 1860.16,
+"job_value_0_3": 1.88,
+"understanding_0_3": 1.64,
+"human_judgment_p": 0.29,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1858.88,
+"end_s": 1970.56,
+"job_value_0_3": 2.34,
+"understanding_0_3": 1.63,
+"human_judgment_p": 0.21,
+"self_contained_p": 0.46
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 1968.8,
+"end_s": 2080.8,
+"job_value_0_3": 2.06,
+"understanding_0_3": 1.61,
+"human_judgment_p": 0.55,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2078.64,
+"end_s": 2190.4,
+"job_value_0_3": 2.82,
+"understanding_0_3": 1.83,
+"human_judgment_p": 0.71,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2187.36,
+"end_s": 2298.16,
+"job_value_0_3": 2.44,
+"understanding_0_3": 1.47,
+"human_judgment_p": 0.65,
+"self_contained_p": 0.14
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2295.92,
+"end_s": 2407.04,
+"job_value_0_3": 1.98,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2405.36,
+"end_s": 2517.44,
+"job_value_0_3": 2.02,
+"understanding_0_3": 1.44,
+"human_judgment_p": 0.18,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2514.56,
+"end_s": 2625.52,
+"job_value_0_3": 2.2,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2622.24,
+"end_s": 2733.68,
+"job_value_0_3": 2.2,
+"understanding_0_3": 1.86,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.13
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2731.76,
+"end_s": 2843.28,
+"job_value_0_3": 1.71,
+"understanding_0_3": 1.54,
+"human_judgment_p": 0.45,
+"self_contained_p": 0.13
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2840.4,
+"end_s": 2951.92,
+"job_value_0_3": 2.74,
+"understanding_0_3": 1.81,
+"human_judgment_p": 0.34,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 2949.36,
+"end_s": 3059.76,
+"job_value_0_3": 2.62,
+"understanding_0_3": 1.5,
+"human_judgment_p": 0.53,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3057.6,
+"end_s": 3169.84,
+"job_value_0_3": 1.68,
+"understanding_0_3": 1.74,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.12
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3166.4,
+"end_s": 3276.96,
+"job_value_0_3": 2.3,
+"understanding_0_3": 1.72,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.4
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3274.08,
+"end_s": 3386.48,
+"job_value_0_3": 2.35,
+"understanding_0_3": 2,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3383.92,
+"end_s": 3495.6,
+"job_value_0_3": 2.46,
+"understanding_0_3": 1.9,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3493.52,
+"end_s": 3605.6,
+"job_value_0_3": 2.27,
+"understanding_0_3": 1.61,
+"human_judgment_p": 0.66,
+"self_contained_p": 0.63
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3603.2,
+"end_s": 3713.28,
+"job_value_0_3": 2.08,
+"understanding_0_3": 2,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3710.96,
+"end_s": 3821.12,
+"job_value_0_3": 2.46,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.65,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3818.32,
+"end_s": 3930.8,
+"job_value_0_3": 2.14,
+"understanding_0_3": 2,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 3927.52,
+"end_s": 4037.76,
+"job_value_0_3": 2.16,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.32,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4035.68,
+"end_s": 4145.84,
+"job_value_0_3": 1.81,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4144.72,
+"end_s": 4255.04,
+"job_value_0_3": 2.08,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.14
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4252.8,
+"end_s": 4363.52,
+"job_value_0_3": 2.49,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.73,
+"self_contained_p": 0.48
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4360.88,
+"end_s": 4472.16,
+"job_value_0_3": 1.96,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.3,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4469.76,
+"end_s": 4580.88,
+"job_value_0_3": 2.44,
+"understanding_0_3": 1.72,
+"human_judgment_p": 0.78,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4579.12,
+"end_s": 4689.76,
+"job_value_0_3": 2.65,
+"understanding_0_3": 2.06,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4687.6,
+"end_s": 4799.52,
+"job_value_0_3": 2.91,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "e_m99aR7_3Q",
+"start_s": 4797.12,
+"end_s": 4831.24,
+"job_value_0_3": 2.82,
+"understanding_0_3": 1.81,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 5.6,
+"end_s": 116.56,
+"job_value_0_3": 0.96,
+"understanding_0_3": 0.89,
+"human_judgment_p": 0.15,
+"self_contained_p": 0.9
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 114.32,
+"end_s": 224.56,
+"job_value_0_3": 1.21,
+"understanding_0_3": 1.05,
+"human_judgment_p": 0.6,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 222.96,
+"end_s": 334.64,
+"job_value_0_3": 1.58,
+"understanding_0_3": 1.1,
+"human_judgment_p": 0.32,
+"self_contained_p": 0.4
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 332.88,
+"end_s": 443.52,
+"job_value_0_3": 2.54,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 442.16,
+"end_s": 552.48,
+"job_value_0_3": 2.41,
+"understanding_0_3": 1.85,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.57
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 550.24,
+"end_s": 662.32,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.23,
+"human_judgment_p": 0.95,
+"self_contained_p": 0.55
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 659.28,
+"end_s": 770.64,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.19,
+"human_judgment_p": 0.97,
+"self_contained_p": 0.49
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 768.88,
+"end_s": 879.2,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.11,
+"human_judgment_p": 0.95,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 877.36,
+"end_s": 987.84,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.07,
+"human_judgment_p": 0.96,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 985.52,
+"end_s": 1096.48,
+"job_value_0_3": 2.26,
+"understanding_0_3": 1.48,
+"human_judgment_p": 0.81,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1095.12,
+"end_s": 1205.2,
+"job_value_0_3": 2.95,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.85,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1203.6,
+"end_s": 1313.84,
+"job_value_0_3": 2.17,
+"understanding_0_3": 1.68,
+"human_judgment_p": 0.58,
+"self_contained_p": 0.4
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1312.32,
+"end_s": 1422.64,
+"job_value_0_3": 2.85,
+"understanding_0_3": 1.33,
+"human_judgment_p": 0.91,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1421.04,
+"end_s": 1531.76,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1530.32,
+"end_s": 1641.36,
+"job_value_0_3": 2.04,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1638.72,
+"end_s": 1750.56,
+"job_value_0_3": 2.65,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.42,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1748.08,
+"end_s": 1858.08,
+"job_value_0_3": 1.77,
+"understanding_0_3": 1.31,
+"human_judgment_p": 0.31,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1856.32,
+"end_s": 1966.72,
+"job_value_0_3": 1.91,
+"understanding_0_3": 1.23,
+"human_judgment_p": 0.15,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 1964.0,
+"end_s": 2074.88,
+"job_value_0_3": 1.99,
+"understanding_0_3": 1.08,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2072.24,
+"end_s": 2183.52,
+"job_value_0_3": 1.81,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2181.92,
+"end_s": 2293.84,
+"job_value_0_3": 2.74,
+"understanding_0_3": 2,
+"human_judgment_p": 0.78,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2291.68,
+"end_s": 2403.04,
+"job_value_0_3": 2.61,
+"understanding_0_3": 1.78,
+"human_judgment_p": 0.75,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2400.24,
+"end_s": 2511.84,
+"job_value_0_3": 1.94,
+"understanding_0_3": 1.16,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2510.16,
+"end_s": 2621.36,
+"job_value_0_3": 1.93,
+"understanding_0_3": 1.67,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2619.04,
+"end_s": 2730.4,
+"job_value_0_3": 2.83,
+"understanding_0_3": 2,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2728.48,
+"end_s": 2841.6,
+"job_value_0_3": 2.76,
+"understanding_0_3": 1.84,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2838.32,
+"end_s": 2948.88,
+"job_value_0_3": 2.38,
+"understanding_0_3": 1.87,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 2947.04,
+"end_s": 3057.68,
+"job_value_0_3": 1.4,
+"understanding_0_3": 1.41,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3055.76,
+"end_s": 3166.48,
+"job_value_0_3": 1.85,
+"understanding_0_3": 1.09,
+"human_judgment_p": 0.21,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3164.56,
+"end_s": 3275.68,
+"job_value_0_3": 2.07,
+"understanding_0_3": 1.49,
+"human_judgment_p": 0.08,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3273.6,
+"end_s": 3384.8,
+"job_value_0_3": 2.61,
+"understanding_0_3": 1.41,
+"human_judgment_p": 0.76,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3382.48,
+"end_s": 3492.72,
+"job_value_0_3": 2.29,
+"understanding_0_3": 1.9,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.53
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3491.04,
+"end_s": 3601.6,
+"job_value_0_3": 1.96,
+"understanding_0_3": 1.64,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3600.0,
+"end_s": 3712.08,
+"job_value_0_3": 1.96,
+"understanding_0_3": 1.59,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.11
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3709.68,
+"end_s": 3822.08,
+"job_value_0_3": 2.45,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.23,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3819.36,
+"end_s": 3931.68,
+"job_value_0_3": 2.94,
+"understanding_0_3": 1.87,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 3930.32,
+"end_s": 4040.88,
+"job_value_0_3": 2.34,
+"understanding_0_3": 1.59,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4037.92,
+"end_s": 4148.96,
+"job_value_0_3": 2.61,
+"understanding_0_3": 1.66,
+"human_judgment_p": 0.61,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4145.52,
+"end_s": 4256.48,
+"job_value_0_3": 2.9,
+"understanding_0_3": 1.83,
+"human_judgment_p": 0.51,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4254.16,
+"end_s": 4365.6,
+"job_value_0_3": 2.91,
+"understanding_0_3": 1.9,
+"human_judgment_p": 0.74,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4363.76,
+"end_s": 4474.24,
+"job_value_0_3": 2.96,
+"understanding_0_3": 2,
+"human_judgment_p": 0.18,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4472.24,
+"end_s": 4583.92,
+"job_value_0_3": 2.87,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.25,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4581.84,
+"end_s": 4692.48,
+"job_value_0_3": 2.9,
+"understanding_0_3": 2.09,
+"human_judgment_p": 0.39,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "TlX_ft_PQIM",
+"start_s": 4690.72,
+"end_s": 4732.04,
+"job_value_0_3": 0.96,
+"understanding_0_3": 0.66,
+"human_judgment_p": 0.16,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 5.56,
+"end_s": 118.73,
+"job_value_0_3": 2.47,
+"understanding_0_3": 1.53,
+"human_judgment_p": 0.18,
+"self_contained_p": 0.9
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 118.73,
+"end_s": 230.23,
+"job_value_0_3": 2.36,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.77
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 230.23,
+"end_s": 340.47,
+"job_value_0_3": 2.54,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.21,
+"self_contained_p": 0.37
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 340.47,
+"end_s": 451.86,
+"job_value_0_3": 2.15,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 451.86,
+"end_s": 562.73,
+"job_value_0_3": 2.01,
+"understanding_0_3": 1.4,
+"human_judgment_p": 0.07,
+"self_contained_p": 0.61
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 562.73,
+"end_s": 675.05,
+"job_value_0_3": 2.01,
+"understanding_0_3": 1.36,
+"human_judgment_p": 0.06,
+"self_contained_p": 0.44
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 675.05,
+"end_s": 786.52,
+"job_value_0_3": 2.82,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.63,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 786.52,
+"end_s": 898.46,
+"job_value_0_3": 2.81,
+"understanding_0_3": 2.11,
+"human_judgment_p": 0.83,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 898.46,
+"end_s": 1009.23,
+"job_value_0_3": 1.63,
+"understanding_0_3": 1.41,
+"human_judgment_p": 0.27,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1009.23,
+"end_s": 1119.99,
+"job_value_0_3": 2.03,
+"understanding_0_3": 2,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.46
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1119.99,
+"end_s": 1230.78,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.94,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1230.78,
+"end_s": 1342.66,
+"job_value_0_3": 1.99,
+"understanding_0_3": 1.7,
+"human_judgment_p": 0.31,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1342.66,
+"end_s": 1454.31,
+"job_value_0_3": 2.27,
+"understanding_0_3": 1.75,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1454.31,
+"end_s": 1566.03,
+"job_value_0_3": 2.21,
+"understanding_0_3": 1.67,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.44
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1566.03,
+"end_s": 1678.44,
+"job_value_0_3": 2.9,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.9,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1678.44,
+"end_s": 1788.45,
+"job_value_0_3": 2.86,
+"understanding_0_3": 1.93,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1788.45,
+"end_s": 1900.69,
+"job_value_0_3": 2.48,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.73,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 1900.69,
+"end_s": 2010.98,
+"job_value_0_3": 1.98,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.09,
+"self_contained_p": 0.53
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2010.98,
+"end_s": 2122.24,
+"job_value_0_3": 2.8,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2122.24,
+"end_s": 2233.78,
+"job_value_0_3": 2.9,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2233.78,
+"end_s": 2344.44,
+"job_value_0_3": 2.41,
+"understanding_0_3": 2,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.5
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2344.44,
+"end_s": 2458.22,
+"job_value_0_3": 2.72,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.36,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2458.22,
+"end_s": 2569.14,
+"job_value_0_3": 2.9,
+"understanding_0_3": 1.93,
+"human_judgment_p": 0.74,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2569.14,
+"end_s": 2680.77,
+"job_value_0_3": 2.94,
+"understanding_0_3": 2.23,
+"human_judgment_p": 0.8,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2680.77,
+"end_s": 2792.87,
+"job_value_0_3": 2.43,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2792.87,
+"end_s": 2903.16,
+"job_value_0_3": 2.44,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 2903.16,
+"end_s": 3015.4,
+"job_value_0_3": 2.89,
+"understanding_0_3": 2,
+"human_judgment_p": 0.5,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3015.4,
+"end_s": 3125.63,
+"job_value_0_3": 2.89,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3125.63,
+"end_s": 3237.68,
+"job_value_0_3": 2.26,
+"understanding_0_3": 1.45,
+"human_judgment_p": 0.77,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3237.68,
+"end_s": 3348.94,
+"job_value_0_3": 2.65,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3348.94,
+"end_s": 3460.19,
+"job_value_0_3": 2.42,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3460.19,
+"end_s": 3571.47,
+"job_value_0_3": 2.16,
+"understanding_0_3": 1.58,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3571.47,
+"end_s": 3682.25,
+"job_value_0_3": 2.65,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.53,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3682.25,
+"end_s": 3794.7,
+"job_value_0_3": 2.86,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3794.7,
+"end_s": 3907.45,
+"job_value_0_3": 1.78,
+"understanding_0_3": 1.28,
+"human_judgment_p": 0.45,
+"self_contained_p": 0.14
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 3907.45,
+"end_s": 4018.3,
+"job_value_0_3": 2.06,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4018.3,
+"end_s": 4128.36,
+"job_value_0_3": 2.67,
+"understanding_0_3": 1.3,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4128.36,
+"end_s": 4240.2,
+"job_value_0_3": 2.92,
+"understanding_0_3": 2.06,
+"human_judgment_p": 0.73,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4240.2,
+"end_s": 4352.07,
+"job_value_0_3": 2.3,
+"understanding_0_3": 1.6,
+"human_judgment_p": 0.64,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4352.07,
+"end_s": 4462.94,
+"job_value_0_3": 2.65,
+"understanding_0_3": 1.6,
+"human_judgment_p": 0.75,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4462.94,
+"end_s": 4574.04,
+"job_value_0_3": 2.91,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.89,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4574.04,
+"end_s": 4684.09,
+"job_value_0_3": 2.9,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "qh5tP6PBZ6U",
+"start_s": 4684.09,
+"end_s": 4729.7,
+"job_value_0_3": 1.26,
+"understanding_0_3": 1.08,
+"human_judgment_p": 0.32,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 5.48,
+"end_s": 116.96,
+"job_value_0_3": 1.22,
+"understanding_0_3": 1.24,
+"human_judgment_p": 0.53,
+"self_contained_p": 0.89
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 116.96,
+"end_s": 227.79,
+"job_value_0_3": 1.18,
+"understanding_0_3": 1.08,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.7
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 227.79,
+"end_s": 338.51,
+"job_value_0_3": 2.71,
+"understanding_0_3": 2.31,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.37
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 338.51,
+"end_s": 451.12,
+"job_value_0_3": 2.19,
+"understanding_0_3": 1.93,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.54
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 451.12,
+"end_s": 561.64,
+"job_value_0_3": 2.94,
+"understanding_0_3": 2,
+"human_judgment_p": 0.9,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 561.64,
+"end_s": 672.85,
+"job_value_0_3": 2.55,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.56
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 672.85,
+"end_s": 784.13,
+"job_value_0_3": 2.87,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.63,
+"self_contained_p": 0.45
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 784.13,
+"end_s": 895.7,
+"job_value_0_3": 2.88,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 895.7,
+"end_s": 1006.46,
+"job_value_0_3": 1.8,
+"understanding_0_3": 1.61,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.46
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1006.46,
+"end_s": 1116.46,
+"job_value_0_3": 2.01,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.38,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1116.46,
+"end_s": 1230.23,
+"job_value_0_3": 2.69,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.76,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1230.23,
+"end_s": 1346.23,
+"job_value_0_3": 2.75,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1346.23,
+"end_s": 1456.59,
+"job_value_0_3": 2.66,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1456.59,
+"end_s": 1567.9,
+"job_value_0_3": 2.53,
+"understanding_0_3": 1.41,
+"human_judgment_p": 0.66,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1567.9,
+"end_s": 1681.82,
+"job_value_0_3": 2.08,
+"understanding_0_3": 1.24,
+"human_judgment_p": 0.38,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1681.82,
+"end_s": 1793.27,
+"job_value_0_3": 2.65,
+"understanding_0_3": 1.86,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1793.27,
+"end_s": 1904.15,
+"job_value_0_3": 2.84,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.62,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 1904.15,
+"end_s": 2014.56,
+"job_value_0_3": 2.67,
+"understanding_0_3": 1.84,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2014.56,
+"end_s": 2126.72,
+"job_value_0_3": 2.1,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.25,
+"self_contained_p": 0.37
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2126.72,
+"end_s": 2238.29,
+"job_value_0_3": 2.88,
+"understanding_0_3": 2.36,
+"human_judgment_p": 0.63,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2238.29,
+"end_s": 2349.07,
+"job_value_0_3": 2.22,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.16,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2349.07,
+"end_s": 2460.86,
+"job_value_0_3": 2.86,
+"understanding_0_3": 2.06,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.5
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2460.86,
+"end_s": 2571.18,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.26,
+"human_judgment_p": 0.91,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2571.18,
+"end_s": 2681.86,
+"job_value_0_3": 2.68,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2681.86,
+"end_s": 2792.09,
+"job_value_0_3": 2.81,
+"understanding_0_3": 2.1,
+"human_judgment_p": 0.73,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2792.09,
+"end_s": 2907.17,
+"job_value_0_3": 2.92,
+"understanding_0_3": 2.33,
+"human_judgment_p": 0.84,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 2907.17,
+"end_s": 3018.22,
+"job_value_0_3": 2.8,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.74,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3018.22,
+"end_s": 3128.22,
+"job_value_0_3": 2.74,
+"understanding_0_3": 2.12,
+"human_judgment_p": 0.52,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3128.22,
+"end_s": 3238.99,
+"job_value_0_3": 2.89,
+"understanding_0_3": 2.1,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3238.99,
+"end_s": 3352.87,
+"job_value_0_3": 2.22,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3352.87,
+"end_s": 3463.85,
+"job_value_0_3": 2.83,
+"understanding_0_3": 2.14,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.4
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3463.85,
+"end_s": 3574.08,
+"job_value_0_3": 2.96,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.71,
+"self_contained_p": 0.59
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3574.08,
+"end_s": 3685.98,
+"job_value_0_3": 2.56,
+"understanding_0_3": 2.09,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.52
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3685.98,
+"end_s": 3797.7,
+"job_value_0_3": 2.18,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.24,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3797.7,
+"end_s": 3907.89,
+"job_value_0_3": 2.95,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.9,
+"self_contained_p": 0.34
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 3907.89,
+"end_s": 4020.79,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.13,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 4020.79,
+"end_s": 4134.1,
+"job_value_0_3": 2.96,
+"understanding_0_3": 2,
+"human_judgment_p": 0.9,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 4134.1,
+"end_s": 4244.18,
+"job_value_0_3": 2.47,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.39,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 4244.18,
+"end_s": 4355.63,
+"job_value_0_3": 2.49,
+"understanding_0_3": 1.81,
+"human_judgment_p": 0.51,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 4355.63,
+"end_s": 4466.21,
+"job_value_0_3": 2.43,
+"understanding_0_3": 1.77,
+"human_judgment_p": 0.24,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 4466.21,
+"end_s": 4576.22,
+"job_value_0_3": 2.94,
+"understanding_0_3": 2.2,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "JC_pLC5EX_w",
+"start_s": 4576.22,
+"end_s": 4606.61,
+"job_value_0_3": 2.23,
+"understanding_0_3": 1.36,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 5.48,
+"end_s": 115.83,
+"job_value_0_3": 1.36,
+"understanding_0_3": 1.66,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.87
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 115.83,
+"end_s": 227.94,
+"job_value_0_3": 1.54,
+"understanding_0_3": 1.17,
+"human_judgment_p": 0.53,
+"self_contained_p": 0.5
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 227.94,
+"end_s": 338.92,
+"job_value_0_3": 1.9,
+"understanding_0_3": 2.17,
+"human_judgment_p": 0.45,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 338.92,
+"end_s": 452.27,
+"job_value_0_3": 1.24,
+"understanding_0_3": 1.01,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.47
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 452.27,
+"end_s": 563.51,
+"job_value_0_3": 2.06,
+"understanding_0_3": 1.6,
+"human_judgment_p": 0.52,
+"self_contained_p": 0.45
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 563.51,
+"end_s": 675.42,
+"job_value_0_3": 1.97,
+"understanding_0_3": 1.1,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.58
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 675.42,
+"end_s": 786.44,
+"job_value_0_3": 2.48,
+"understanding_0_3": 1.77,
+"human_judgment_p": 0.31,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 786.44,
+"end_s": 898.31,
+"job_value_0_3": 2.53,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.51
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 898.31,
+"end_s": 1009.99,
+"job_value_0_3": 2.85,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1009.99,
+"end_s": 1122.3,
+"job_value_0_3": 2.78,
+"understanding_0_3": 2.12,
+"human_judgment_p": 0.6,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1122.3,
+"end_s": 1234.42,
+"job_value_0_3": 2.78,
+"understanding_0_3": 1.84,
+"human_judgment_p": 0.8,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1234.42,
+"end_s": 1345.5,
+"job_value_0_3": 2.2,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1345.5,
+"end_s": 1455.86,
+"job_value_0_3": 2.81,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.13
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1455.86,
+"end_s": 1565.97,
+"job_value_0_3": 2.7,
+"understanding_0_3": 1.55,
+"human_judgment_p": 0.69,
+"self_contained_p": 0.37
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1565.97,
+"end_s": 1675.99,
+"job_value_0_3": 2.42,
+"understanding_0_3": 1.15,
+"human_judgment_p": 0.79,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1675.99,
+"end_s": 1786.12,
+"job_value_0_3": 2.71,
+"understanding_0_3": 1.43,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1786.12,
+"end_s": 1897.72,
+"job_value_0_3": 2.94,
+"understanding_0_3": 1.55,
+"human_judgment_p": 0.74,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 1897.72,
+"end_s": 2008.43,
+"job_value_0_3": 2.98,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2008.43,
+"end_s": 2119.35,
+"job_value_0_3": 2.9,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.62,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2119.35,
+"end_s": 2230.06,
+"job_value_0_3": 2.87,
+"understanding_0_3": 1.87,
+"human_judgment_p": 0.88,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2230.06,
+"end_s": 2341.67,
+"job_value_0_3": 2.42,
+"understanding_0_3": 1.82,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2341.67,
+"end_s": 2453.55,
+"job_value_0_3": 2.6,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.47,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2453.55,
+"end_s": 2566.5,
+"job_value_0_3": 2.1,
+"understanding_0_3": 1.3,
+"human_judgment_p": 0.18,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2566.5,
+"end_s": 2677.94,
+"job_value_0_3": 2.1,
+"understanding_0_3": 1.65,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2677.94,
+"end_s": 2788.79,
+"job_value_0_3": 2.39,
+"understanding_0_3": 1.9,
+"human_judgment_p": 0.09,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2788.79,
+"end_s": 2900.51,
+"job_value_0_3": 2.45,
+"understanding_0_3": 1.54,
+"human_judgment_p": 0.49,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 2900.51,
+"end_s": 3011.48,
+"job_value_0_3": 2.28,
+"understanding_0_3": 1.82,
+"human_judgment_p": 0.15,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3011.48,
+"end_s": 3123.62,
+"job_value_0_3": 2.58,
+"understanding_0_3": 1.61,
+"human_judgment_p": 0.84,
+"self_contained_p": 0.44
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3123.62,
+"end_s": 3237.53,
+"job_value_0_3": 2.62,
+"understanding_0_3": 1.31,
+"human_judgment_p": 0.88,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3237.53,
+"end_s": 3347.81,
+"job_value_0_3": 1.92,
+"understanding_0_3": 1.52,
+"human_judgment_p": 0.75,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3347.81,
+"end_s": 3458.07,
+"job_value_0_3": 2.83,
+"understanding_0_3": 1.9,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3458.07,
+"end_s": 3568.71,
+"job_value_0_3": 2.65,
+"understanding_0_3": 1.7,
+"human_judgment_p": 0.66,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3568.71,
+"end_s": 3679.02,
+"job_value_0_3": 2.82,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3679.02,
+"end_s": 3790.48,
+"job_value_0_3": 2.69,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.49,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3790.48,
+"end_s": 3902.93,
+"job_value_0_3": 2.04,
+"understanding_0_3": 1.29,
+"human_judgment_p": 0.15,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 3902.93,
+"end_s": 4012.95,
+"job_value_0_3": 2.66,
+"understanding_0_3": 1.52,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.44
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 4012.95,
+"end_s": 4125.47,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.27,
+"human_judgment_p": 0.97,
+"self_contained_p": 0.41
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 4125.47,
+"end_s": 4236.06,
+"job_value_0_3": 2.98,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.96,
+"self_contained_p": 0.47
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 4236.06,
+"end_s": 4347.65,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.26,
+"human_judgment_p": 0.91,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 4347.65,
+"end_s": 4459.29,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.39,
+"human_judgment_p": 0.96,
+"self_contained_p": 0.6
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 4459.29,
+"end_s": 4574.14,
+"job_value_0_3": 2.98,
+"understanding_0_3": 2.11,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "q0Q-Hy8TTps",
+"start_s": 4574.14,
+"end_s": 4629.35,
+"job_value_0_3": 2.37,
+"understanding_0_3": 1.29,
+"human_judgment_p": 0.83,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 5.6,
+"end_s": 117.2,
+"job_value_0_3": 1.67,
+"understanding_0_3": 1.19,
+"human_judgment_p": 0.22,
+"self_contained_p": 0.86
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 117.2,
+"end_s": 230.44,
+"job_value_0_3": 2.76,
+"understanding_0_3": 1.62,
+"human_judgment_p": 0.18,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 230.44,
+"end_s": 341.21,
+"job_value_0_3": 2.96,
+"understanding_0_3": 2.17,
+"human_judgment_p": 0.45,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 341.21,
+"end_s": 451.29,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.4,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 451.29,
+"end_s": 563.45,
+"job_value_0_3": 2.93,
+"understanding_0_3": 2.08,
+"human_judgment_p": 0.63,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 563.45,
+"end_s": 675.89,
+"job_value_0_3": 2.76,
+"understanding_0_3": 1.63,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 675.89,
+"end_s": 786.36,
+"job_value_0_3": 2.93,
+"understanding_0_3": 2.18,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 786.36,
+"end_s": 896.94,
+"job_value_0_3": 2.95,
+"understanding_0_3": 2.2,
+"human_judgment_p": 0.71,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 896.94,
+"end_s": 1009.88,
+"job_value_0_3": 2.77,
+"understanding_0_3": 2,
+"human_judgment_p": 0.64,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1009.88,
+"end_s": 1122.55,
+"job_value_0_3": 2.94,
+"understanding_0_3": 1.64,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1122.55,
+"end_s": 1234.79,
+"job_value_0_3": 2.47,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.36,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1234.79,
+"end_s": 1348.35,
+"job_value_0_3": 2.34,
+"understanding_0_3": 2.08,
+"human_judgment_p": 0.8,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1348.35,
+"end_s": 1460.67,
+"job_value_0_3": 1.89,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.2,
+"self_contained_p": 0.39
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1460.67,
+"end_s": 1573.04,
+"job_value_0_3": 2.09,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.66
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1573.04,
+"end_s": 1685.12,
+"job_value_0_3": 2.03,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.48,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1685.12,
+"end_s": 1795.8,
+"job_value_0_3": 2.77,
+"understanding_0_3": 2,
+"human_judgment_p": 0.24,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1795.8,
+"end_s": 1906.76,
+"job_value_0_3": 2.65,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.46,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 1906.76,
+"end_s": 2016.91,
+"job_value_0_3": 2.18,
+"understanding_0_3": 1.93,
+"human_judgment_p": 0.27,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2016.91,
+"end_s": 2127.65,
+"job_value_0_3": 2.02,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.18,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2127.65,
+"end_s": 2237.93,
+"job_value_0_3": 2.11,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.21,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2237.93,
+"end_s": 2348.37,
+"job_value_0_3": 2.48,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.6,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2348.37,
+"end_s": 2458.6,
+"job_value_0_3": 2.87,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.75,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2458.6,
+"end_s": 2569.34,
+"job_value_0_3": 2.94,
+"understanding_0_3": 2,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2569.34,
+"end_s": 2681.12,
+"job_value_0_3": 2.42,
+"understanding_0_3": 1.78,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2681.12,
+"end_s": 2793.32,
+"job_value_0_3": 2.25,
+"understanding_0_3": 1.92,
+"human_judgment_p": 0.1,
+"self_contained_p": 0.44
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2793.32,
+"end_s": 2907.35,
+"job_value_0_3": 2,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.06,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 2907.35,
+"end_s": 3018.67,
+"job_value_0_3": 2.87,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.38,
+"self_contained_p": 0.47
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3018.67,
+"end_s": 3130.35,
+"job_value_0_3": 2.19,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.49
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3130.35,
+"end_s": 3241.25,
+"job_value_0_3": 2.17,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3241.25,
+"end_s": 3353.73,
+"job_value_0_3": 2.32,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.24,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3353.73,
+"end_s": 3464.8,
+"job_value_0_3": 2.76,
+"understanding_0_3": 1.87,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3464.8,
+"end_s": 3575.16,
+"job_value_0_3": 2.9,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.29,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3575.16,
+"end_s": 3687.56,
+"job_value_0_3": 2.83,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.69,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3687.56,
+"end_s": 3799.33,
+"job_value_0_3": 2.85,
+"understanding_0_3": 2.46,
+"human_judgment_p": 0.81,
+"self_contained_p": 0.2
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3799.33,
+"end_s": 3912.15,
+"job_value_0_3": 2.24,
+"understanding_0_3": 2.59,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.47
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 3912.15,
+"end_s": 4022.25,
+"job_value_0_3": 2.55,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.55,
+"self_contained_p": 0.34
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4022.25,
+"end_s": 4133.56,
+"job_value_0_3": 2.36,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.3,
+"self_contained_p": 0.38
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4133.56,
+"end_s": 4244.46,
+"job_value_0_3": 2.76,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4244.46,
+"end_s": 4354.9,
+"job_value_0_3": 2.22,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.43
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4354.9,
+"end_s": 4468.46,
+"job_value_0_3": 2.5,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.61,
+"self_contained_p": 0.37
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4468.46,
+"end_s": 4578.51,
+"job_value_0_3": 2.47,
+"understanding_0_3": 1.75,
+"human_judgment_p": 0.58,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4578.51,
+"end_s": 4690.99,
+"job_value_0_3": 2.75,
+"understanding_0_3": 1.84,
+"human_judgment_p": 0.83,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "s0S38lz6O7M",
+"start_s": 4690.99,
+"end_s": 4750.7,
+"job_value_0_3": 2.54,
+"understanding_0_3": 1.56,
+"human_judgment_p": 0.75,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 5.48,
+"end_s": 117.53,
+"job_value_0_3": 1.67,
+"understanding_0_3": 0.93,
+"human_judgment_p": 0.68,
+"self_contained_p": 0.88
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 117.53,
+"end_s": 229.21,
+"job_value_0_3": 1.98,
+"understanding_0_3": 0.93,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.43
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 229.21,
+"end_s": 342.58,
+"job_value_0_3": 1.49,
+"understanding_0_3": 1.02,
+"human_judgment_p": 0.76,
+"self_contained_p": 0.56
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 342.58,
+"end_s": 455.26,
+"job_value_0_3": 2.13,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.47
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 455.26,
+"end_s": 567.21,
+"job_value_0_3": 2.49,
+"understanding_0_3": 2.21,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 567.21,
+"end_s": 678.16,
+"job_value_0_3": 2.06,
+"understanding_0_3": 1.9,
+"human_judgment_p": 0.16,
+"self_contained_p": 0.59
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 678.16,
+"end_s": 788.4,
+"job_value_0_3": 2.1,
+"understanding_0_3": 1.94,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.71
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 788.4,
+"end_s": 898.95,
+"job_value_0_3": 2.14,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.59
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 898.95,
+"end_s": 1011.3,
+"job_value_0_3": 2.13,
+"understanding_0_3": 1.88,
+"human_judgment_p": 0.31,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1011.3,
+"end_s": 1122.5,
+"job_value_0_3": 2.53,
+"understanding_0_3": 2,
+"human_judgment_p": 0.47,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1122.5,
+"end_s": 1233.71,
+"job_value_0_3": 2.05,
+"understanding_0_3": 1.29,
+"human_judgment_p": 0.55,
+"self_contained_p": 0.69
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1233.71,
+"end_s": 1344.26,
+"job_value_0_3": 2.78,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.9,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1344.26,
+"end_s": 1455.45,
+"job_value_0_3": 1.71,
+"understanding_0_3": 1.38,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1455.45,
+"end_s": 1566.45,
+"job_value_0_3": 1.85,
+"understanding_0_3": 1.49,
+"human_judgment_p": 0.41,
+"self_contained_p": 0.34
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1566.45,
+"end_s": 1678.7,
+"job_value_0_3": 2.98,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.48
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1678.7,
+"end_s": 1791.22,
+"job_value_0_3": 2.57,
+"understanding_0_3": 1.83,
+"human_judgment_p": 0.6,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1791.22,
+"end_s": 1902.95,
+"job_value_0_3": 2.77,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.46,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 1902.95,
+"end_s": 2016.68,
+"job_value_0_3": 2.92,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.82,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2016.68,
+"end_s": 2128.76,
+"job_value_0_3": 2.91,
+"understanding_0_3": 2,
+"human_judgment_p": 0.75,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2128.76,
+"end_s": 2240.85,
+"job_value_0_3": 2.95,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.83,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2240.85,
+"end_s": 2352.74,
+"job_value_0_3": 2.36,
+"understanding_0_3": 2.06,
+"human_judgment_p": 0.27,
+"self_contained_p": 0.4
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2352.74,
+"end_s": 2464.82,
+"job_value_0_3": 2.72,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.6,
+"self_contained_p": 0.51
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2464.82,
+"end_s": 2575.13,
+"job_value_0_3": 2.84,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.91,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2575.13,
+"end_s": 2687.8,
+"job_value_0_3": 2.98,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.94,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2687.8,
+"end_s": 2801.8,
+"job_value_0_3": 2.7,
+"understanding_0_3": 1.8,
+"human_judgment_p": 0.67,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2801.8,
+"end_s": 2916.65,
+"job_value_0_3": 2.24,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 2916.65,
+"end_s": 3030.02,
+"job_value_0_3": 2.09,
+"understanding_0_3": 1.54,
+"human_judgment_p": 0.33,
+"self_contained_p": 0.32
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3030.02,
+"end_s": 3142.16,
+"job_value_0_3": 2.28,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.3,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3142.16,
+"end_s": 3254.03,
+"job_value_0_3": 2.53,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.43,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3254.03,
+"end_s": 3364.75,
+"job_value_0_3": 2.53,
+"understanding_0_3": 2,
+"human_judgment_p": 0.62,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3364.75,
+"end_s": 3479.28,
+"job_value_0_3": 2.05,
+"understanding_0_3": 1.45,
+"human_judgment_p": 0.35,
+"self_contained_p": 0.61
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3479.28,
+"end_s": 3593.69,
+"job_value_0_3": 2.86,
+"understanding_0_3": 1.5,
+"human_judgment_p": 0.69,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3593.69,
+"end_s": 3704.26,
+"job_value_0_3": 2.93,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.8,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3704.26,
+"end_s": 3814.6,
+"job_value_0_3": 1.99,
+"understanding_0_3": 1.59,
+"human_judgment_p": 0.27,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3814.6,
+"end_s": 3925.69,
+"job_value_0_3": 2.83,
+"understanding_0_3": 1.89,
+"human_judgment_p": 0.89,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 3925.69,
+"end_s": 4039.52,
+"job_value_0_3": 2.69,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.55,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 4039.52,
+"end_s": 4153.36,
+"job_value_0_3": 2.56,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.93,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 4153.36,
+"end_s": 4264.45,
+"job_value_0_3": 2.52,
+"understanding_0_3": 2,
+"human_judgment_p": 0.65,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 4264.45,
+"end_s": 4375.34,
+"job_value_0_3": 2.72,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 4375.34,
+"end_s": 4486.06,
+"job_value_0_3": 2.49,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "psLc-46GqY0",
+"start_s": 4486.06,
+"end_s": 4586.2,
+"job_value_0_3": 2.75,
+"understanding_0_3": 1.7,
+"human_judgment_p": 0.26,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 5.52,
+"end_s": 115.66,
+"job_value_0_3": 1,
+"understanding_0_3": 1,
+"human_judgment_p": 0.06,
+"self_contained_p": 0.83
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 115.66,
+"end_s": 226.64,
+"job_value_0_3": 1.47,
+"understanding_0_3": 1.42,
+"human_judgment_p": 0.58,
+"self_contained_p": 0.51
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 226.64,
+"end_s": 338.13,
+"job_value_0_3": 1.32,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.05,
+"self_contained_p": 0.63
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 338.13,
+"end_s": 448.71,
+"job_value_0_3": 1.06,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.29,
+"self_contained_p": 0.69
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 448.71,
+"end_s": 558.71,
+"job_value_0_3": 1.87,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 558.71,
+"end_s": 670.7,
+"job_value_0_3": 2.67,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.71,
+"self_contained_p": 0.39
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 670.7,
+"end_s": 782.0,
+"job_value_0_3": 2.5,
+"understanding_0_3": 1.95,
+"human_judgment_p": 0.83,
+"self_contained_p": 0.51
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 782.0,
+"end_s": 894.56,
+"job_value_0_3": 1.97,
+"understanding_0_3": 1.5,
+"human_judgment_p": 0.59,
+"self_contained_p": 0.13
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 894.56,
+"end_s": 1004.74,
+"job_value_0_3": 1.34,
+"understanding_0_3": 1.52,
+"human_judgment_p": 0.27,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1004.74,
+"end_s": 1114.93,
+"job_value_0_3": 1.12,
+"understanding_0_3": 1.63,
+"human_judgment_p": 0.07,
+"self_contained_p": 0.42
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1114.93,
+"end_s": 1226.43,
+"job_value_0_3": 1.68,
+"understanding_0_3": 1.87,
+"human_judgment_p": 0.03,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1226.43,
+"end_s": 1339.71,
+"job_value_0_3": 1.93,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.05,
+"self_contained_p": 0.33
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1339.71,
+"end_s": 1450.59,
+"job_value_0_3": 1.88,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1450.59,
+"end_s": 1563.2,
+"job_value_0_3": 1.56,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.08,
+"self_contained_p": 0.17
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1563.2,
+"end_s": 1674.28,
+"job_value_0_3": 1.45,
+"understanding_0_3": 1.79,
+"human_judgment_p": 0.06,
+"self_contained_p": 0.12
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1674.28,
+"end_s": 1785.68,
+"job_value_0_3": 2.5,
+"understanding_0_3": 2.17,
+"human_judgment_p": 0.56,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1785.68,
+"end_s": 1899.0,
+"job_value_0_3": 2.05,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 1899.0,
+"end_s": 2016.01,
+"job_value_0_3": 2.96,
+"understanding_0_3": 2.31,
+"human_judgment_p": 0.87,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2016.01,
+"end_s": 2127.51,
+"job_value_0_3": 2.8,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.77,
+"self_contained_p": 0.35
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2127.51,
+"end_s": 2240.49,
+"job_value_0_3": 2.29,
+"understanding_0_3": 1.96,
+"human_judgment_p": 0.85,
+"self_contained_p": 0.71
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2240.49,
+"end_s": 2353.22,
+"job_value_0_3": 1.03,
+"understanding_0_3": 1.88,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.21
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2353.22,
+"end_s": 2464.76,
+"job_value_0_3": 1.62,
+"understanding_0_3": 1.81,
+"human_judgment_p": 0.24,
+"self_contained_p": 0.55
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2464.76,
+"end_s": 2575.38,
+"job_value_0_3": 1.41,
+"understanding_0_3": 1.82,
+"human_judgment_p": 0.3,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2575.38,
+"end_s": 2686.16,
+"job_value_0_3": 2.21,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.56,
+"self_contained_p": 0.25
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2686.16,
+"end_s": 2798.26,
+"job_value_0_3": 2.63,
+"understanding_0_3": 2.17,
+"human_judgment_p": 0.59,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2798.26,
+"end_s": 2912.17,
+"job_value_0_3": 2.6,
+"understanding_0_3": 2.05,
+"human_judgment_p": 0.68,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 2912.17,
+"end_s": 3022.99,
+"job_value_0_3": 2.3,
+"understanding_0_3": 1.87,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3022.99,
+"end_s": 3133.37,
+"job_value_0_3": 1.33,
+"understanding_0_3": 1.76,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3133.37,
+"end_s": 3247.18,
+"job_value_0_3": 1.6,
+"understanding_0_3": 1.66,
+"human_judgment_p": 0.21,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3247.18,
+"end_s": 3357.48,
+"job_value_0_3": 2.57,
+"understanding_0_3": 2.22,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.43
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3357.48,
+"end_s": 3470.5,
+"job_value_0_3": 2.67,
+"understanding_0_3": 2.1,
+"human_judgment_p": 0.58,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3470.5,
+"end_s": 3582.31,
+"job_value_0_3": 2.64,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.57,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3582.31,
+"end_s": 3692.49,
+"job_value_0_3": 2.66,
+"understanding_0_3": 2.07,
+"human_judgment_p": 0.71,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3692.49,
+"end_s": 3805.07,
+"job_value_0_3": 2.82,
+"understanding_0_3": 2.11,
+"human_judgment_p": 0.76,
+"self_contained_p": 0.31
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3805.07,
+"end_s": 3915.71,
+"job_value_0_3": 2.65,
+"understanding_0_3": 2,
+"human_judgment_p": 0.71,
+"self_contained_p": 0.14
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 3915.71,
+"end_s": 4026.45,
+"job_value_0_3": 2.87,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.34,
+"self_contained_p": 0.53
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 4026.45,
+"end_s": 4138.88,
+"job_value_0_3": 2.06,
+"understanding_0_3": 1.86,
+"human_judgment_p": 0.34,
+"self_contained_p": 0.48
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 4138.88,
+"end_s": 4250.14,
+"job_value_0_3": 2.74,
+"understanding_0_3": 2.02,
+"human_judgment_p": 0.48,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 4250.14,
+"end_s": 4361.48,
+"job_value_0_3": 2.97,
+"understanding_0_3": 2.31,
+"human_judgment_p": 0.86,
+"self_contained_p": 0.42
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 4361.48,
+"end_s": 4474.64,
+"job_value_0_3": 2.98,
+"understanding_0_3": 2.25,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.55
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 4474.64,
+"end_s": 4588.79,
+"job_value_0_3": 2.99,
+"understanding_0_3": 2.31,
+"human_judgment_p": 0.92,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "Vr1NzH8bT44",
+"start_s": 4588.79,
+"end_s": 4669.96,
+"job_value_0_3": 2.65,
+"understanding_0_3": 2.07,
+"human_judgment_p": 0.19,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 5.52,
+"end_s": 115.9,
+"job_value_0_3": 0.75,
+"understanding_0_3": 0.62,
+"human_judgment_p": 0.03,
+"self_contained_p": 0.94
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 115.9,
+"end_s": 226.46,
+"job_value_0_3": 1.02,
+"understanding_0_3": 0.97,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.85
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 226.46,
+"end_s": 338.07,
+"job_value_0_3": 0.98,
+"understanding_0_3": 0.8,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 338.07,
+"end_s": 448.19,
+"job_value_0_3": 1.05,
+"understanding_0_3": 1.3,
+"human_judgment_p": 0.26,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 448.19,
+"end_s": 559.19,
+"job_value_0_3": 0.86,
+"understanding_0_3": 1.1,
+"human_judgment_p": 0.03,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 559.19,
+"end_s": 672.08,
+"job_value_0_3": 1.29,
+"understanding_0_3": 1.23,
+"human_judgment_p": 0.05,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 672.08,
+"end_s": 782.44,
+"job_value_0_3": 1.84,
+"understanding_0_3": 1.97,
+"human_judgment_p": 0.1,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 782.44,
+"end_s": 896.16,
+"job_value_0_3": 1.85,
+"understanding_0_3": 2.04,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 896.16,
+"end_s": 1009.04,
+"job_value_0_3": 1.4,
+"understanding_0_3": 1.56,
+"human_judgment_p": 0.08,
+"self_contained_p": 0.41
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1009.04,
+"end_s": 1120.29,
+"job_value_0_3": 1.91,
+"understanding_0_3": 1.47,
+"human_judgment_p": 0.28,
+"self_contained_p": 0.54
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1120.29,
+"end_s": 1230.79,
+"job_value_0_3": 1.32,
+"understanding_0_3": 1.03,
+"human_judgment_p": 0.23,
+"self_contained_p": 0.16
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1230.79,
+"end_s": 1342.47,
+"job_value_0_3": 1.76,
+"understanding_0_3": 1.75,
+"human_judgment_p": 0.3,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1342.47,
+"end_s": 1453.43,
+"job_value_0_3": 1.86,
+"understanding_0_3": 1.6,
+"human_judgment_p": 0.51,
+"self_contained_p": 0.41
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1453.43,
+"end_s": 1563.58,
+"job_value_0_3": 2.12,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.26,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1563.58,
+"end_s": 1674.84,
+"job_value_0_3": 1.47,
+"understanding_0_3": 1.63,
+"human_judgment_p": 0.14,
+"self_contained_p": 0.76
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1674.84,
+"end_s": 1789.08,
+"job_value_0_3": 1.46,
+"understanding_0_3": 1.83,
+"human_judgment_p": 0.11,
+"self_contained_p": 0.28
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1789.08,
+"end_s": 1901.29,
+"job_value_0_3": 2.77,
+"understanding_0_3": 2.13,
+"human_judgment_p": 0.46,
+"self_contained_p": 0.22
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 1901.29,
+"end_s": 2013.37,
+"job_value_0_3": 2.14,
+"understanding_0_3": 2,
+"human_judgment_p": 0.12,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2013.37,
+"end_s": 2123.73,
+"job_value_0_3": 2.87,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.69,
+"self_contained_p": 0.27
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2123.73,
+"end_s": 2235.47,
+"job_value_0_3": 2.77,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.24,
+"self_contained_p": 0.26
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2235.47,
+"end_s": 2348.61,
+"job_value_0_3": 2.39,
+"understanding_0_3": 1.98,
+"human_judgment_p": 0.36,
+"self_contained_p": 0.19
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2348.61,
+"end_s": 2460.12,
+"job_value_0_3": 1.92,
+"understanding_0_3": 2,
+"human_judgment_p": 0.27,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2460.12,
+"end_s": 2572.4,
+"job_value_0_3": 2.77,
+"understanding_0_3": 2.07,
+"human_judgment_p": 0.9,
+"self_contained_p": 0.4
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2572.4,
+"end_s": 2683.32,
+"job_value_0_3": 2.72,
+"understanding_0_3": 2.01,
+"human_judgment_p": 0.53,
+"self_contained_p": 0.3
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2683.32,
+"end_s": 2793.59,
+"job_value_0_3": 2.13,
+"understanding_0_3": 1.84,
+"human_judgment_p": 0.44,
+"self_contained_p": 0.24
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2793.59,
+"end_s": 2905.41,
+"job_value_0_3": 1.89,
+"understanding_0_3": 1.75,
+"human_judgment_p": 0.09,
+"self_contained_p": 0.18
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 2905.41,
+"end_s": 3018.65,
+"job_value_0_3": 2.76,
+"understanding_0_3": 2.03,
+"human_judgment_p": 0.63,
+"self_contained_p": 0.36
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3018.65,
+"end_s": 3131.47,
+"job_value_0_3": 2.16,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.58,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3131.47,
+"end_s": 3243.24,
+"job_value_0_3": 2.93,
+"understanding_0_3": 2.08,
+"human_judgment_p": 0.69,
+"self_contained_p": 0.23
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3243.24,
+"end_s": 3355.3,
+"job_value_0_3": 2.59,
+"understanding_0_3": 2.41,
+"human_judgment_p": 0.7,
+"self_contained_p": 0.44
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3355.3,
+"end_s": 3466.8,
+"job_value_0_3": 2.21,
+"understanding_0_3": 2.11,
+"human_judgment_p": 0.8,
+"self_contained_p": 0.58
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3466.8,
+"end_s": 3577.24,
+"job_value_0_3": 2.54,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.13,
+"self_contained_p": 0.15
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3577.24,
+"end_s": 3687.89,
+"job_value_0_3": 2.07,
+"understanding_0_3": 2,
+"human_judgment_p": 0.2,
+"self_contained_p": 0.34
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3687.89,
+"end_s": 3798.41,
+"job_value_0_3": 2.76,
+"understanding_0_3": 2.43,
+"human_judgment_p": 0.81,
+"self_contained_p": 0.42
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3798.41,
+"end_s": 3910.89,
+"job_value_0_3": 2.89,
+"understanding_0_3": 1.91,
+"human_judgment_p": 0.72,
+"self_contained_p": 0.29
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 3910.89,
+"end_s": 4021.16,
+"job_value_0_3": 2.81,
+"understanding_0_3": 1.8,
+"human_judgment_p": 0.17,
+"self_contained_p": 0.46
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 4021.16,
+"end_s": 4131.68,
+"job_value_0_3": 2.7,
+"understanding_0_3": 1.99,
+"human_judgment_p": 0.16,
+"self_contained_p": 0.14
+},
+{
+"lecture_id": "DGI4vucR71w",
+"start_s": 4131.68,
+"end_s": 4171.09,
+"job_value_0_3": 0.79,
+"understanding_0_3": 0.67,
+"human_judgment_p": 0.07,
+"self_contained_p": 0.19
+}
+]
+}

@@ -1,0 +1,12 @@
+[
+ {"n": 1,  "id": "7GW-9ug2nvw", "title": "Terminal-Bench: Evaluating AI Agents", "who": "Guest lecture, Alex Shaw & Ryan Marten", "course_order": "guest"},
+ {"n": 2,  "id": "e_m99aR7_3Q", "title": "Optimizing AI Agents: Prompts vs. Weights (GEPA, GRPO)", "who": "Lecture 9, Michael Ryan", "course_order": 9},
+ {"n": 3,  "id": "TlX_ft_PQIM", "title": "Multi-Agent Systems: When More Agents Help or Hurt", "who": "Lecture 8, Michael Ryan", "course_order": 8},
+ {"n": 4,  "id": "qh5tP6PBZ6U", "title": "How AI Agent Memory Works: MemGPT & Memory Types", "who": "Lecture 7, Michael Ryan", "course_order": 7},
+ {"n": 5,  "id": "JC_pLC5EX_w", "title": "AI Agent Design Patterns: ReAct, CodeAct & More", "who": "Lecture 6, Michael Ryan", "course_order": 6},
+ {"n": 6,  "id": "q0Q-Hy8TTps", "title": "DSPy vs. LangGraph: AI Agent Frameworks Explained", "who": "Lecture 5, Michael Ryan", "course_order": 5},
+ {"n": 7,  "id": "s0S38lz6O7M", "title": "How AI Agents Use Tools: Function Calling & MCP", "who": "Lecture 4, Diyi Yang", "course_order": 4},
+ {"n": 8,  "id": "psLc-46GqY0", "title": "RAG Explained: From BM25 to Agentic RAG", "who": "Lecture 3, Diyi Yang", "course_order": 3},
+ {"n": 9,  "id": "Vr1NzH8bT44", "title": "LLMs for Agent Builders: Context Engineering", "who": "Lecture 2, Michael Ryan", "course_order": 2},
+ {"n": 10, "id": "DGI4vucR71w", "title": "What Are AI Agents? Agentic Systems Explained", "who": "Lecture 1, Diyi Yang", "course_order": 1}
+]
