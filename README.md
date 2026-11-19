@@ -37,7 +37,15 @@ python3 tools/transcripts.py media/subs media/transcripts
 python3 tools/cut.py
 ```
 
-Each clip starts half a second before its in point and runs to the end of the sentence being spoken at its out point (at most ten seconds later). The clips land in `media/clips/`, one `.mp4` per cut with a `.txt` beside it carrying the source link, the notes and the transcript of what is said. `tools/cut.py L5-i L4-b` cuts only those. YouTube rate-limits caption downloads; if some fail, wait a few minutes and run the second command again.
+Each clip starts half a second before its in point and runs to the end of the sentence being spoken at its out point (at most ten seconds later). The clips land in `media/clips/`, one `.mp4` per cut. Its note (source link, why it matters, transcript) goes in `media/clips/notes/` and a still for the watch page in `media/clips/posters/`. `tools/cut.py L5-i L4-b` cuts only those. YouTube rate-limits caption downloads; if some fail, wait a few minutes and run the second command again.
+
+To watch them, build the page and open `media/watch.html`: every clip plays in place, with why it matters beside it.
+
+```bash
+python3 tools/build_watch.py && python3 ~/.claude/skills/briefing/scripts/brief.py html media/watch.src.html media/watch.html
+```
+
+(`briefing` is a house tool; without it, `media/clips/INDEX.md` from `tools/build_guide.py --local` lists the same clips.)
 
 `python3 tools/read.py media/transcripts 6 42:00 48:00` prints any stretch of a lecture with timestamps, which is how the in and out points were chosen. Change a time in `cuts.json` and run `tools/cut.py` again: a clip whose cut moved is made again, and the rest are left alone. `python3 tools/build_guide.py --local` writes `media/clips/INDEX.md`, the guide with each cut linked to its clip on your machine.
 

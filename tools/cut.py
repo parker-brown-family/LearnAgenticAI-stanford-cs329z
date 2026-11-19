@@ -3,7 +3,8 @@
 
 Each clip is re-encoded (H.264 + AAC, NVENC when available) so it starts exactly where the
 cut says rather than at the previous keyframe, with half a second of air either side.
-Beside each clip goes a .txt with its source link and the transcript of what is said.
+Each clip gets a note in clips/notes/ (source link, why it matters, transcript) and a still in
+clips/posters/ for the watch page. Bookkeeping stamps live in media/.stamps/, out of the way.
 Existing clips are skipped, so editing one cut and re-running only re-makes that one.
 
     python3 -I tools/cut.py                  # all cuts
@@ -54,8 +55,11 @@ def main(only):
         out_at = sentence_end(segs, secs(c["end"]))
         a, b = max(0.0, secs(c["start"]) - PAD_IN), out_at + PAD_OUT
         name = f"{c['id']}-{slug(c['title'])}"
-        mp4, txt = out_dir / f"{name}.mp4", out_dir / f"{name}.txt"
-        stamp = mp4.with_suffix(".cut")
+        mp4, txt = out_dir / f"{name}.mp4", out_dir / "notes" / f"{name}.txt"
+        poster = out_dir / "posters" / f"{c['id']}.jpg"
+        txt.parent.mkdir(exist_ok=True); poster.parent.mkdir(exist_ok=True)
+        stamp = MEDIA / ".stamps" / f"{name}.cut"
+        stamp.parent.mkdir(exist_ok=True)
         want = f"{a:.2f}-{b:.2f}"
         if mp4.exists() and stamp.exists() and stamp.read_text() != want:
             mp4.unlink()          # the cut moved since this clip was made
@@ -66,6 +70,9 @@ def main(only):
             subprocess.run(cmd, check=True)
             shutil.move(tmp, mp4)
         stamp.write_text(want)
+        if not poster.exists() or poster.stat().st_mtime < mp4.stat().st_mtime:
+            subprocess.run(["ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", "20", "-i", str(mp4),
+                            "-frames:v", "1", "-vf", "scale=640:-2", "-q:v", "4", str(poster)], check=True)
         said = " ".join(s["text"] for s in segs if secs(c["start"]) <= s["start"] < out_at)
         txt.write_text(
             f"{c['title']}\n{lec['who']}: {lec['title']}\n"
